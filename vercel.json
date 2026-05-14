@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/viva-flowers-website/index.html" },
+    { "source": "/(.*)", "destination": "/viva-flowers-website/$1" }
+  ]
+}
